@@ -241,3 +241,5 @@ Este código que elaboramos para el proyecto lee los datos proporcionados en el 
 Este código es una herramienta útil para categorizar ciclones tropicales en función de su velocidad del viento, siguiendo la Escala de Huracanes de Saffir-Simpson. Este tipo de análisis es crucial para comprender la intensidad de los ciclones y evaluar su potencial impacto.
 
 La utilización de Python en entornos como Google Colab permite la manipulación eficiente de datos y facilita la automatización de tareas, como la categorización de ciclones. La combinación de bibliotecas como pandas y openpyxl permite cargar, procesar y guardar datos de manera sencilla.
+#POSTER CIENTIFICO
+![](https://github.com/reneee27/Proyecto/blob/main/Ciclones/Poster_Cient%C3%ADfico_Ciclones.pdf)
