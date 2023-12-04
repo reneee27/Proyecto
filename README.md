@@ -1,26 +1,15 @@
 # Categorización de los ciclones en los últimos 3 años basada en la velocidad de sus vientos
 ![](RackMultipart20231130-1-zmtep8_html_957da2369959fe46.png)
 
-**FACULTAD**** DE INGENIERIA CIVIL**
-
-**INGENIERO**** TOPOGRAFO ****GEOMATICO**
-
-**"Categoría de los ciclones en los últimos 3 años basada en la velocidad de sus vientos****"**
-
-**Maestro** :Sebastián Gonzales Zepeda
-
-**Autores** :
-
-Hernán Córdova Araiza
-
-Rene Antonio Alfaro Ríos
-
-Edgar Oswaldo Sebastián López
-
-Alejandra Atanacio Mancilla
-
-**Grado y**** Grupo**: 3ºB
-
+**FACULTAD**** DE INGENIERIA CIVIL**\
+**INGENIERO**** TOPOGRAFO ****GEOMATICO**\
+**Autores** :\
+Hernán Córdova Araiza\
+Rene Antonio Alfaro Ríos\
+Edgar Oswaldo Sebastián López\
+Alejandra Atanacio Mancilla\
+**Grado y**** Grupo**: 3ºB\
+**Asesor** :Sebastián Gonzales Zepeda\
 **Resumen**
 
 En este proyecto vamos a analizar los ciclones, sus categorías y principalmente las velocidades de los vientos en estos últimos tres años. Para ello rescatamos información en páginas confiables que nos brindan las fechas en que estos ciclones tocaron tierra en cierta ubicación, contamos con tablas de datos en Excel sobre los antecedentes de estos ciclones, principalmente sus velocidades. Este código nos facilita la información que necesitamos, ya que como son 100 datos, nos tardaríamos mucho en calcular cada categoría una por una
