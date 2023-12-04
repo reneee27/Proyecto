@@ -4,10 +4,10 @@
 **FACULTAD**** DE INGENIERIA CIVIL**\
 **INGENIERO**** TOPOGRAFO ****GEOMATICO**\
 **Autores** :\
-Hernán Córdova Araiza\
-Rene Antonio Alfaro Ríos\
-Edgar Oswaldo Sebastián López\
-Alejandra Atanacio Mancilla\
+Hernán Córdova Araiza\ 100%
+Rene Antonio Alfaro Ríos\ 100%
+Edgar Oswaldo Sebastián López\ 100%
+Alejandra Atanacio Mancilla\ 100%
 **Grado y**** Grupo**: 3ºB\
 **Asesor** :Sebastián Gonzales Zepeda\
 **Resumen**
